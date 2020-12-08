@@ -5,8 +5,8 @@
 
 * 文件夹右键
 
-![](https://github.com/shine-rain/fileClient/blob/master/file.PNG)
+![image](https://github.com/shine-rain/fileClient/blob/master/file.PNG)
 
 * 空白右键
 
-![](https://github.com/shine-rain/fileClient/blob/master/right.PNG)
+![image](https://github.com/shine-rain/fileClient/blob/master/right.PNG)
